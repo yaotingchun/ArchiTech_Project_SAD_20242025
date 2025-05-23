@@ -1,5 +1,5 @@
 # ArchiTech_Project_SAD_20242025
-Hi we are from Team ArchiTech :)
+# **Hi there! We are from ArchiTech. 👋**
 ## Group member:
 1. Chun Yao Ting      (A24CS0239) [GitHub](https://github.com/yaotingchun)
 2. Parthiv Gunalan    (A24CS0178) [GitHub](https://github.com/Parv53)
